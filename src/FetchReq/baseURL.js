@@ -1,1 +1,1 @@
-export const baseURL = "https://zethic-task2-ecommerce.herokuapp.com/api";
+export const baseURL = "https://ecommercebackend-qcgr.onrender.com/api";
